@@ -25,3 +25,5 @@ pycaw
    ```
    press 'q'
    ```
+## Detailed documentation
+https://github.com/SirMarchford/Project_GestureRecognition/wiki#documentation
