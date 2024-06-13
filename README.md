@@ -27,3 +27,7 @@ pycaw
    ```
 ## Detailed documentation
 https://github.com/SirMarchford/Project_GestureRecognition/wiki#documentation
+
+##created by:
+@SirMarchford
+@Hilary123456
