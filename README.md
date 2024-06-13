@@ -25,8 +25,9 @@ pycaw
    ```
    press 'q'
    ```
-## Detailed documentation
-https://github.com/SirMarchford/Project_GestureRecognition/wiki#documentation
+## Wiki Pages
+### Documentation and Applications
+https://github.com/SirMarchford/Project_GestureRecognition.wiki.git
 
 ## Created by:
 @SirMarchford
