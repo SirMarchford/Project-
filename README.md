@@ -12,3 +12,16 @@ ctypes
 comtypes
 pycaw
 ```
+## How to operate
+1. Install dependencies:
+   ```
+   pip install -r requirements.txt
+   ```
+2. Run the application:
+   ```
+   python volume_control.py
+   ```
+3. Close the application:
+   ```
+   press 'q'
+   ```
