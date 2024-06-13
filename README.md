@@ -28,6 +28,7 @@ pycaw
 ## Wiki Pages
 ### Documentation and Applications
 https://github.com/SirMarchford/Project_GestureRecognition/wiki/Documentation
+https://github.com/SirMarchford/Project_GestureRecognition/wiki/Applications
 
 ## Created by:
 @SirMarchford
